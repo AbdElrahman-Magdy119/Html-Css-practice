@@ -1,0 +1,45 @@
+.container{
+ margin: 50px;
+}
+#div1{
+    
+    background-color: bisque;
+    border: 5px solid white;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+   
+}
+button{
+    background-color: coral;
+}
+button:hover{
+      background-color: black;
+      color: white;
+}
+#span1{
+    float: left;
+   
+}
+#div4{
+    clear: both;
+}
+
+table,th,td{
+    border: 2px solid rgb(182, 179, 179);
+   padding: 10px;
+    border-collapse: collapse;
+}
+tr:nth-child(even)
+{
+    background-color: aquamarine;
+}
+ td:nth-child(even)
+{
+    background-color: aquamarine;
+} 
+
+th:nth-child(even)
+{
+    background-color: aquamarine;
+} 

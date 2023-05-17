@@ -1,0 +1,11 @@
+.all{
+    margin: 40px;
+   
+}
+
+td{
+    padding-top: 10px;
+    padding-left:60px;
+    border-bottom: 2px solid gray;
+    border-collapse: collapse;
+}
